@@ -1,0 +1,22 @@
+{
+  "name": "markdown-it-toc-better",
+  "version": "0.1.0",
+  "description": "Generate plug-ins for directories written by markdownit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "markdown",
+    "markdown-it",
+    "markdown-it-plugin",
+    "markdown-it-toc"
+  ],
+  "repository": {
+    "type": "gitee",
+    "url": "https://gitee.com/GXY-xiebian/markdown-it-toc-better"
+  },
+  "homepage": "https://xeibian.fun",
+  "author": "xiebian",
+  "license": "MIT"
+}
