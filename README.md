@@ -46,8 +46,9 @@ Since markdown-it itself is synchronous, there is no need to worry about asynchr
 
 
 ```js
+import markdownit from 'markdown-it'
 let menuTree,mdLinkHTML
-const md = require('markdown-it')({
+const md = markdownit({
   html: true,
   linkify: true,
   typography: true
