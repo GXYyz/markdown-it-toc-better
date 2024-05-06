@@ -1,6 +1,6 @@
 # markdown-it-toc-better
 
-> The markdown-it plug-in is used to output a directory DOM or directory tree object to a markdown document
+> The markdown-it plug-in is used to output a directory DOM or directory tree object to a markdown document  
 > markdown-it插件，用于输出目录DOM或目录树对象到markdown文档
 
 ## Usage
