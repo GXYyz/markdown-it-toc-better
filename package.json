@@ -13,8 +13,8 @@
     "markdown-it-toc"
   ],
   "repository": {
-    "type": "gitee",
-    "url": "https://gitee.com/GXY-xiebian/markdown-it-toc-better"
+    "type": "git",
+    "url": "https://github.com/GXYyz/markdown-it-toc-better"
   },
   "homepage": "https://xeibian.fun",
   "author": "xiebian",
